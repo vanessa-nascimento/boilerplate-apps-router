@@ -1,0 +1,7 @@
+# Ignore artifacts:
+!.storybook
+!.jest
+build
+coverage
+.next
+tailwind.config.ts
